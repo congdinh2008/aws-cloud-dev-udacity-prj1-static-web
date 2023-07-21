@@ -1,0 +1,7 @@
+aws.cfg
+**/.DS_Store
+terraform/.terraform/**
+terraform/solution.plan
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
